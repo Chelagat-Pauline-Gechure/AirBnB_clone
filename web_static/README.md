@@ -27,3 +27,6 @@
 
 | Task | File |
 | ---- | ---- |
+
+Questions to research: difference between
+    -> text-align, justify-content align-items
