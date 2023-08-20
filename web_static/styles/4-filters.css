@@ -4,7 +4,7 @@ div.container {
     text-align: center;
 }
 
-section.filters {
+.filters {
     background-color: white;
     height: 70px;
     width: 100%;
@@ -16,7 +16,7 @@ section.filters {
     justify-content: flex-end;*/
 }
 
-section.filters button {
+.filters button {
     font-size: 18px;
     background-color: #FF5A5F;
     color: #FFFFFF;
@@ -33,6 +33,6 @@ section.filters button {
     align-items: center;*/
 }
 
-section.filters button:hover {
+.filters button:hover {
     opacity: 0.9;
 }
